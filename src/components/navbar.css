@@ -1,0 +1,38 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #333;
+    color: #fff;
+    padding: 1rem;
+}
+
+.left-logo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 1rem;
+}
+
+.right-logo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 1rem;
+}
+
+.label{
+    display: block;
+    margin-bottom: 0;
+    margin-left: 31rem;
+    margin-top: 5rem;
+}
+
+.top{
+    margin-top: 1rem;
+}
+
+.submit-buttom{
+    margin-left: 8rem;
+}
+
